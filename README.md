@@ -48,7 +48,7 @@ Thao tác đọc, ghi file text.
 
 <h3>Học phần 3</h3>
 
-Áp dụng OOP, cài đặt thuộc tính, các phương thức tĩnh.
+Áp dụng OOP, cài đặt các thuộc tính, phương thức tĩnh.
 
 Giao diện tkinter:
 - Các controller: label, button, combobox, checkbox, radio button, entry,…
