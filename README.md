@@ -6,8 +6,6 @@ Thư viện số
 
 Vận dụng các kiến thức về các câu lệnh xử lý chuỗi, in ra màn hình cơ bản... của học phần 1 và các thao tác về hàm, tham số, biến, đọc/ ghi file... của học phần 2 tích hợp vào ứng dụng có giao diện tkinter của học phần 3.
 
-Nghiệp vụ đăng nhập và đăng ký.
-
 Phân quyền xử lý đăng nhập: Quản trị và người dùng.
 
 <h2>HƯỚNG DẪN</h2>
